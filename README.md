@@ -10,7 +10,7 @@ Month-to-month contracts have significantly higher churn rates compared to long-
 ---
 
 ### 🔹 Monthly Charges vs Churn
-![Monthly Charges vs Churn](images/monthly_charges_vs_churn.png)
+![Monthly Charges vs Churn](IMG_٢٠٢٥١٢٣٠_٠٩٥٩٢٨.jpg)
 
 **Insight:**  
 Customers with higher monthly charges are more likely to churn, especially when value-added services are missing.
