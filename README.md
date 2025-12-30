@@ -2,7 +2,7 @@
 ## 📊 Key Visual Insights
 
 ### 🔹 Churn vs Contract Type
-![Churn vs Contract](images/churn_vs_contract.png)
+![Churn vs Contract](IMG_٢٠٢٥١٢٣٠_٠٩٥٨٥٤.jpg)
 
 **Insight:**  
 Month-to-month contracts have significantly higher churn rates compared to long-term contracts.
