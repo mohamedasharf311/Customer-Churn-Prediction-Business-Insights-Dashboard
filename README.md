@@ -18,7 +18,7 @@ Customers with higher monthly charges are more likely to churn, especially when 
 ---
 
 ### 🔹 Tenure vs Churn
-![Tenure vs Churn](images/tenure_vs_churn.png)
+![Tenure vs Churn](IMG_٢٠٢٥١٢٣٠_٠٩٥٩٥٧.jpg)
 
 **Insight:**  
 The first 12 months represent the highest churn risk period.
